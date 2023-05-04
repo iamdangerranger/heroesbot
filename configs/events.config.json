@@ -1,0 +1,128 @@
+[
+	{
+		"name": "root_of_nightmares",
+		"description": "Root of Nightmares, 1770 LL",
+		"size": "6",
+		"lightlevel": "1770"
+	},
+	{
+		"name": "kings_fall",
+		"description": "King's Fall, 1540 LL",
+		"size": "6",
+		"lightlevel": "1550"
+	},
+  {
+    "name": "vow_of_the_disciple",
+    "description": "Vow of the Disciple, 1520 LL",
+    "size": 6,
+    "lightLevel": "1540"
+  },
+  {
+    "name": "vault_of_glass",
+    "description": "Vault of Glass - 6 person raid, 1350 LL",
+    "size": 6,
+    "lightLevel": "1350"
+  },
+  {
+    "name": "deep_stone_crypt",
+    "description": "Deep Stone Crypt - 6 person raid, 1350 LL",
+    "size": 6,
+    "lightLevel": "1350"
+  },
+  {
+    "name": "garden_of_salvation",
+    "description": "Garden of Salvation - 6 person raid, 1350 LL",
+    "size": 6,
+    "lightLevel": "1350"
+  },
+  {
+    "name": "last_wish",
+    "description": "Last Wish - 6 person raid, 1350 LL",
+    "size": 6,
+    "lightLevel": "1350"
+  },
+  {
+	"name": "spire_of_the_watcher",
+	"description": "Spire of the Watch - 3 person dungeon, 1580 LL",
+	"size": 3,
+	"lightlevel": "1580"
+  },
+  {
+	  "name": "duality",
+	  "description": "Duality - 3 preson dungeon, 1350 LL",
+	  "size": "3",
+	  "lightlevel": "1550"
+  },
+  {
+    "name": "grasp_of_avarice",
+    "description": "Grasp of Avarice - 3 person dungeon, 1350 LL",
+    "size": "3",
+    "lightLevel": "1350"
+  },
+  {
+    "name": "prophecy",
+    "description": "Prophecy - 3 person dungeon, 1350 LL",
+    "size": "3",
+    "lightLevel": "1350"
+  },
+  {
+    "name": "pit_of_heresy",
+    "description": "Pit of Heresy - 3 person dungeon, 1350 LL",
+    "size": "3",
+    "lightLevel": "1350"
+  },
+  {
+    "name": "shattered_throne",
+    "description": "Shattered Throne - 3 person dungeon, 1350 LL",
+    "size": "3",
+    "lightLevel": "1350"
+  },
+  {
+	  "name": "Exotic Mission",
+	  "description": "Exotic Mission, 1800 LL",
+	  "size": "3",
+	  "lightlevel": "1800"
+  },
+  {
+    "name": "legend_dares_of_eternity",
+    "description": "Legend Dares of Eternity, 1550 LL",
+    "size": 6,
+    "lightLevel": "1550"
+  },
+  {
+    "name": "gambit",
+    "description": "Gambit - 4 person pvpve activity, 1350 LL",
+    "size": "4",
+    "lightLevel": "1350"
+  },
+  {
+    "name": "crucible_3",
+    "description": "3 person crucible",
+    "size": 3,
+    "lightLevel": "1350"
+  },
+  {
+	"name": "crucible_6",
+	"description": "6 person crucible",
+	"size": 6,
+	"lightlevel": "1360"
+  },
+  {
+    "name": "master_nightfall",
+    "description": "Master Nightfall - 3 person strike, 1590LL",
+    "size": 3,
+    "lightLevel": "1590"
+  },
+  {
+    "name": "grandmaster_nightfall",
+    "description": "Grandmaster Nightfall - 3 person strike, 1575LL",
+    "size": 3,
+    "lightLevel": "1575"
+  },
+  {
+    "name": "other",
+    "description": "Freeform activity entry. Please include details like Light Level and people needed",
+    "size": 6,
+    "lightLevel": "1350"
+  }
+]
